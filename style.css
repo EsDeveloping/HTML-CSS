@@ -63,6 +63,8 @@ header {
     width: 600px;
     margin: 0 auto;
     background: #ac30d9;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .div1 {
